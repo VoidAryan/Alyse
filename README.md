@@ -34,17 +34,6 @@
 <a href="https://github.com/PriyanshBharti"> <img src="https://img.shields.io/badge/PriyanshBharti-Github-magenta?style=for-the-badge&logo=github" alt="PriyanshBharti Github" /> </a>
 </p>
 
-<h2 align="center">
-    ──「 VOID NETWORK 」──
-</h2>
-
-<p align="center">
-  <img src="https://telegra.ph/file/ac88912b5b552e01d6c6c.jpg">
-</p>
-
-
-<p align="center"> Anime Based Community currently running over telegram with a motive to spread love and peace over this platform. </p>
-
   
 ## How to setup/deploy.
 
